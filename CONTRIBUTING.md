@@ -10,6 +10,7 @@ Si vous avez une idée pour une nouvelle fonctionnalité, n'hésitez pas à soum
 
 ## Configuration de l'environnement
 Pour installer les dépendances nécessaires, utilisez la commande :
+
 ```bash
 npm install
 ```
