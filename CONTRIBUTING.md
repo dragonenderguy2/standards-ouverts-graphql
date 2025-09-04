@@ -9,7 +9,7 @@ Si vous trouvez un bug, veuillez ouvrir un problème sur GitHub.
 Si vous avez une idée pour une nouvelle fonctionnalité, n'hésitez pas à soumettre une demande de tirage.
 
 ## Configuration de l'environnement
-Pour installer les dépendances nécessaires, utilisez command:
+Pour installer les dépendances nécessaires, utilisez la commande :
 ```bash
 npm install
 ```
