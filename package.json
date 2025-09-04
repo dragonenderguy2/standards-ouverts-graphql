@@ -10,6 +10,6 @@
   "author": "Votre Nom",
   "license": "MIT",
   "dependencies": {
-    "apollo-server": "^2.23.0"
+    "apollo-server": "^3.12.0"
   }
 }
