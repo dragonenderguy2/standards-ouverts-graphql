@@ -1,0 +1,15 @@
+{
+  "name": "standards-ouverts-graphql",
+  "version": "1.0.0",
+  "description": "Bibliothèque pour promouvoir des normes ouvertes dans les API GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "keywords": ["graphql", "standards", "api"],
+  "author": "Votre Nom",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.23.0"
+  }
+}
